@@ -1,5 +1,5 @@
 {
-    "name": "popbox/ssh-popbox",
+    "name": "riwandylbs/ssh-popbox",
     "description": "PopBox SSH For Uploading FILE using SFTP",
     "type": "library",
     "license": "MIT",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Popbox\\Ssh": "src/"
+            "Riwandy\\Ssh": "src/"
         }
     }
 }

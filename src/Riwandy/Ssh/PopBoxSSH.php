@@ -1,6 +1,6 @@
 <?php
 
-namespace Popbox\Ssh;
+namespace Riwandy\Ssh;
 
 class PopBoxSSH
 {
